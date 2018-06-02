@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcoGarden</string>
+    <string name="hint_cardview">Nombre de la flor</string>
+
+    <string name="flornamecard">Nombre de la flor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
